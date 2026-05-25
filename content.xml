@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260524203807TARZ2F</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260524203807Q2MW0Y</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>UNA MIRADA AL PASADO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Historia de la Peluquería</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Óscar David Moreno Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Unidad de Trabajo:
+Estudio de los estilos de la peluquería en las diferentes décadas del S.XX. En  esta unidad se trabajarán las técnicas propias de cada época así como la herramientas y cosméticos utilizados.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>public domain</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779646954194</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779637318753-eegbhpaur</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779637318753-eegbhpaur</odePageId>
+      <odeBlockId>block-1779637372396-fnrc9y404</odeBlockId>
+      <blockName>Bienvenido@s!</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779637318753-eegbhpaur</odePageId>
+          <odeBlockId>block-1779637372396-fnrc9y404</odeBlockId>
+          <odeIdeviceId>idevice-1779637372391-7zgo0s40p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Te damos la bienvenida! La imagen personal va más allá de la estética y la peluquería: es comunicación, técnica y personalización. </p>
+<p>La peluquería moderna es el resultado de un siglo de revoluciones sociales, tecnológicas y estéticas. En este bloque analizaremos cómo las tendencias icónicas del siglo xx han evolucionado hasta convertirse en la base técnica y vanguardista del salón actual. </p>
+<p>Comprender el pasado es la clave para anticipar el futuro de la moda de la peluquería.</p>
+<p>¡Comenzamos!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779637372391-7zgo0s40p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Te damos la bienvenida! La imagen personal va más allá de la estética y la peluquería: es comunicación, técnica y personalización. </p>\n<p>La peluquería moderna es el resultado de un siglo de revoluciones sociales, tecnológicas y estéticas. En este bloque analizaremos cómo las tendencias icónicas del siglo xx han evolucionado hasta convertirse en la base técnica y vanguardista del salón actual. </p>\n<p>Comprender el pasado es la clave para anticipar el futuro de la moda de la peluquería.</p>\n<p>¡Comenzamos!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779638506955-ws18uivr9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.1. Una mirada al pasado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.1. Una mirada al pasado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.1. Una mirada al pasado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779638506955-ws18uivr9</odePageId>
+      <odeBlockId>block-1779640965520-dwd0dkbfi</odeBlockId>
+      <blockName>Una mirada al pasado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779638506955-ws18uivr9</odePageId>
+          <odeBlockId>block-1779640965520-dwd0dkbfi</odeBlockId>
+          <odeIdeviceId>idevice-1779640965519-6uteoy0gx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 400px; text-align: center;">
+<div class="figcaption header"><strong>Salón de belleza Años 50</strong></div>
+<img src="{{context_path}}/content/resources/Peluquería antigua.webp" title="Salón de peluquería Años 50" width="400" height="330" alt="En esta imagen podemos ver como han evolucionado los aparatos de calor utilizados en el salón de peluquería." />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><a href="https://docs.google.com/document/d/14gxpnNo4EbZyEIgYjy8Veo-pFm0-IQJwN2SxQu998eI/edit?usp=sharing">Tarea 2.1 Una mirada al pasado</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779640965519-6uteoy0gx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 400px; text-align: center;\">\n<div class=\"figcaption header\"><strong>Salón de belleza Años 50</strong></div>\n<img src=\"{{context_path}}/content/resources/Peluquería antigua.webp\" title=\"Salón de peluquería Años 50\" width=\"400\" height=\"330\" alt=\"En esta imagen podemos ver como han evolucionado los aparatos de calor utilizados en el salón de peluquería.\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><a href=\"https://docs.google.com/document/d/14gxpnNo4EbZyEIgYjy8Veo-pFm0-IQJwN2SxQu998eI/edit?usp=sharing\">Tarea 2.1 Una mirada al pasado</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779638506955-ws18uivr9</odePageId>
+      <odeBlockId>block-1779643682460-tx491p0xo</odeBlockId>
+      <blockName>Historia de la peluquería</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779638506955-ws18uivr9</odePageId>
+          <odeBlockId>block-1779643682460-tx491p0xo</odeBlockId>
+          <odeIdeviceId>idevice-1779643682459-qr8egi1f2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;">
+<figcaption class="figcaption header"><strong>Curiosidades de la peluquería</strong></figcaption>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a></span></figcaption>
+</figure>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZBPf9v47iKE?si=A9JjBQGAt7g3LPmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779643682459-qr8egi1f2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Curiosidades de la peluquería</strong></figcaption>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZBPf9v47iKE?si=A9JjBQGAt7g3LPmp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640512557-lc8kn7gv8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 7.1 Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7.1 Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 7.1 Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640512557-lc8kn7gv8</odePageId>
+      <odeBlockId>block-1779641150278-skku2c2yh</odeBlockId>
+      <blockName>Línea temporal del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640512557-lc8kn7gv8</odePageId>
+          <odeBlockId>block-1779641150278-skku2c2yh</odeBlockId>
+          <odeIdeviceId>idevice-1779641150276-mbcu0lnip</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://mm.tt/map/4005987554?t=1wfAuEusdC" title="">Tarea 7.1 Línea temporal del proyecto</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779641150276-mbcu0lnip","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://mm.tt/map/4005987554?t=1wfAuEusdC\" title=\"\">Tarea 7.1 Línea temporal del proyecto</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640698090-qqaojoc04</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 4.1 Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4.1 Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640698090-qqaojoc04</odePageId>
+      <odeBlockId>block-1779641642594-03wjiijap</odeBlockId>
+      <blockName>Descripción del producto final.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640698090-qqaojoc04</odePageId>
+          <odeBlockId>block-1779641642594-03wjiijap</odeBlockId>
+          <odeIdeviceId>idevice-1779641642592-q0tvlqbj4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto final se realizará a través de Genially por los siguientes motivos:<br />- Ofrece plantillas con diseños geniales completamente configurables.<br />-Tiene infinidad de efectos para animar los elementos, lo que hace que las presentaciones sean más atractivas.<br />- Se pueden insertar imágenes, videos, hipervínculos , voz, textos y elementos interactivos, etc...</p>
+<p>Esta actividad se puede realizar en el centro ya que disponemos de dos aulas polivalentes en la que nos encontramos con los recursos necesarios  para que puedan llevar a cabo los diferentes proyectos.</p>
+<p>Además, aquellos que no os encontréis muy familiarizados con la aplicación, se os proporcionará una guía de iniciación para que podáis realizar el proyecto de una forma adecuada. </p>
+<p>No obstante, tanto yo, como vuestros compañeros, estaremos siempre a vuestro lado para resolver aquellas dudas que os surjan en el momento.</p>
+<p>Ánimo chicos y chicas, esto está hecho!!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779641642592-q0tvlqbj4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto final se realizará a través de Genially por los siguientes motivos:<br />- Ofrece plantillas con diseños geniales completamente configurables.<br />-Tiene infinidad de efectos para animar los elementos, lo que hace que las presentaciones sean más atractivas.<br />- Se pueden insertar imágenes, videos, hipervínculos , voz, textos y elementos interactivos, etc...</p>\n<p>Esta actividad se puede realizar en el centro ya que disponemos de dos aulas polivalentes en la que nos encontramos con los recursos necesarios  para que puedan llevar a cabo los diferentes proyectos.</p>\n<p>Además, aquellos que no os encontréis muy familiarizados con la aplicación, se os proporcionará una guía de iniciación para que podáis realizar el proyecto de una forma adecuada. </p>\n<p>No obstante, tanto yo, como vuestros compañeros, estaremos siempre a vuestro lado para resolver aquellas dudas que os surjan en el momento.</p>\n<p>Ánimo chicos y chicas, esto está hecho!!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640384666-oansdmfpz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640384666-oansdmfpz</odePageId>
+      <odeBlockId>block-1779642190030-6wlfe2ny5</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640384666-oansdmfpz</odePageId>
+          <odeBlockId>block-1779642190030-6wlfe2ny5</odeBlockId>
+          <odeIdeviceId>idevice-1779642190029-n3np257wm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado veremos cuáles son las herramientas digitales con las que trabajaremos tanto el profesorado como el alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642190029-n3np257wm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado veremos cuáles son las herramientas digitales con las que trabajaremos tanto el profesorado como el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640401405-ficxhklku</odePageId>
+  <odeParentPageId>page-1779640384666-oansdmfpz</odeParentPageId>
+  <pageName>Tarea 5.1 Herramientas utilizadas por el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1 Herramientas utilizadas por el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5.1 Herramientas utilizadas por el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640401405-ficxhklku</odePageId>
+      <odeBlockId>block-1779642260735-by7ci2gys</odeBlockId>
+      <blockName>Herramientas utilizadas por el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640401405-ficxhklku</odePageId>
+          <odeBlockId>block-1779642260735-by7ci2gys</odeBlockId>
+          <odeIdeviceId>idevice-1779642260733-42r0yfyx4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="CURACIÓN DE CONTENIDOS" frameborder="0" src="https://view.genially.com/6a0ee9c5cc08b29d9be7c7a8" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all"></iframe></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642260733-42r0yfyx4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"CURACIÓN DE CONTENIDOS\" frameborder=\"0\" src=\"https://view.genially.com/6a0ee9c5cc08b29d9be7c7a8\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640423133-sd2ujt369</odePageId>
+  <odeParentPageId>page-1779640384666-oansdmfpz</odeParentPageId>
+  <pageName>Tarea 5.1 Herramientas utilizadas por el profesor</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1 Herramientas utilizadas por el profesor</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5.1 Herramientas utilizadas por el profesor</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640423133-sd2ujt369</odePageId>
+      <odeBlockId>block-1779642389660-xgqpuntzl</odeBlockId>
+      <blockName>Herramientas utilizadas por el profesor</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640423133-sd2ujt369</odePageId>
+          <odeBlockId>block-1779642389660-xgqpuntzl</odeBlockId>
+          <odeIdeviceId>idevice-1779642389658-lb680ycb6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHKX4s88o0/yLEZ5Lwsg5qE7CWUVVcxbA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHKX4s88o0/yLEZ5Lwsg5qE7CWUVVcxbA/view?utm_content=DAHKX4s88o0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">CURACIÓN DE CONTENIDOS PROFESOR</a> de Oscar David Moreno</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642389658-lb680ycb6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHKX4s88o0/yLEZ5Lwsg5qE7CWUVVcxbA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHKX4s88o0/yLEZ5Lwsg5qE7CWUVVcxbA/view?utm_content=DAHKX4s88o0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">CURACIÓN DE CONTENIDOS PROFESOR</a> de Oscar David Moreno</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640645146-fp8gw374d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.3 Derechos digitales</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.3 Derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640645146-fp8gw374d</odePageId>
+      <odeBlockId>block-1779642475452-h2uldzf7r</odeBlockId>
+      <blockName>Derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640645146-fp8gw374d</odePageId>
+          <odeBlockId>block-1779642475452-h2uldzf7r</odeBlockId>
+          <odeIdeviceId>idevice-1779642475451-5zgm3rvac</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1ZMPmFkGNZ2FVejHi6mOMK80hcviWqNOo/view?usp=sharing" title="">Derechos digitales</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642475451-5zgm3rvac","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1ZMPmFkGNZ2FVejHi6mOMK80hcviWqNOo/view?usp=sharing\" title=\"\">Derechos digitales</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640751405-1xvg8i889</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640751405-1xvg8i889</odePageId>
+      <odeBlockId>block-1779642570950-vmni7fj54</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640751405-1xvg8i889</odePageId>
+          <odeBlockId>block-1779642570950-vmni7fj54</odeBlockId>
+          <odeIdeviceId>idevice-1779642570949-rohlbkf4b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Apartado en el que se recogen los criterios de evaluación asociados a la tarea y los instrumentos de evaluación que se van a utilizar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642570949-rohlbkf4b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Apartado en el que se recogen los criterios de evaluación asociados a la tarea y los instrumentos de evaluación que se van a utilizar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640815012-5d8crwnwz</odePageId>
+  <odeParentPageId>page-1779640751405-1xvg8i889</odeParentPageId>
+  <pageName>Tarea 6.1 Criterios de evaluación asociados</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6.1 Criterios de evaluación asociados</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640815012-5d8crwnwz</odePageId>
+      <odeBlockId>block-1779642704703-lgynospoh</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640815012-5d8crwnwz</odePageId>
+          <odeBlockId>block-1779642704703-lgynospoh</odeBlockId>
+          <odeIdeviceId>idevice-1779642704701-9wbko8fcg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1ufy7G3PxUIcIXhhfsHSIvKt9nGJKQWoIY5N6F4z4YAo/edit?usp=sharing" title="">Criterios de evaluación asociados</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642704701-9wbko8fcg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1ufy7G3PxUIcIXhhfsHSIvKt9nGJKQWoIY5N6F4z4YAo/edit?usp=sharing\" title=\"\">Criterios de evaluación asociados</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779640855042-wls1a038r</odePageId>
+  <odeParentPageId>page-1779640751405-1xvg8i889</odeParentPageId>
+  <pageName>Tarea 8.1 Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8.1 Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779640855042-wls1a038r</odePageId>
+      <odeBlockId>block-1779642872791-sokj0vpc6</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779640855042-wls1a038r</odePageId>
+          <odeBlockId>block-1779642872791-sokj0vpc6</odeBlockId>
+          <odeIdeviceId>idevice-1779642872790-rciscpe05</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/spreadsheets/d/1EtfpyQjfG-DIreDK2aKHunBIq14TwRcM41FTRqq__DE/edit?usp=sharing" title="">Instrumentos de evaluación utilizados para la corrección del proyecto</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642872790-rciscpe05","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/spreadsheets/d/1EtfpyQjfG-DIreDK2aKHunBIq14TwRcM41FTRqq__DE/edit?usp=sharing\" title=\"\">Instrumentos de evaluación utilizados para la corrección del proyecto</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779645030855-qawodz9od</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779645030855-qawodz9od</odePageId>
+      <odeBlockId>block-1779645272759-njbuya84x</odeBlockId>
+      <blockName>Criterios de calificaci</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779645030855-qawodz9od</odePageId>
+          <odeBlockId>block-1779645272759-njbuya84x</odeBlockId>
+          <odeIdeviceId>idevice-1779645272758-tvy5gwvia</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779645272758-tvy5gwvia" title="" href="{{context_path}}/content/resources/Guía didáctica.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Guía didáctica.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779645272758-tvy5gwvia","img_0":{"img":"{{context_path}}/content/resources/Guía didáctica.png","thumbnail":"{{context_path}}/content/resources/Guía didáctica.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779645091456-zcdjl2f8x</odePageId>
+  <odeParentPageId>page-1779645030855-qawodz9od</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779645091456-zcdjl2f8x</odePageId>
+      <odeBlockId>block-1779646069576-2924ohs7n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779645091456-zcdjl2f8x</odePageId>
+          <odeBlockId>block-1779646069576-2924ohs7n</odeBlockId>
+          <odeIdeviceId>idevice-1779646069574-jtmuicysj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779646069574-jtmuicysj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
